@@ -6,15 +6,28 @@ This project showcases an interactive Spotify analytics dashboard developed usin
 The dashboard transforms raw data into meaningful and visually compelling business insights through dynamic and interactive visualizations.
 
 
-
 🛠️ Tools & Technologies Used
-- Power BI
-- Data Cleaning
+- Power BI(Dashboards & Data Modeling)
+- Data Cleaning & Transformation
 - Data Visualization
 - DAX (Data Analysis Expressions)
-- Data Modeling
+- Excel Dataset (.xlsx)
 
-  
+
+🎯 Project Objectives
+- Analyze Spotify streaming data trends
+- Identify top-performing artists and tracks
+- Build an interactive and user-friendly dashboard
+- Provide actionable insights through data visualization
+
+
+
+📊 Dataset Information
+- Source: Public Spotify Dataset (used for educational and analytical purposes)
+- Domain: Music Streaming Analytics
+- Format: Structured Dataset (Microsoft Excel- .xlsx)
+- Key Columns: Artist, Track Name, Popularity, Streams, Duration, Release Date
+
 
 📊 Dashboard Preview
 
@@ -31,11 +44,13 @@ The dashboard transforms raw data into meaningful and visually compelling busine
 ![Songs Dashboard](03-Songs.png)
 
 
-🎯 Project Objectives
-- Analyze Spotify streaming data trends
-- Identify top-performing artists and tracks
-- Build an interactive and user-friendly dashboard
-- Provide actionable insights through data visualization
+
+📈 Key Insights
+Identified top-performing artists based on popularity and total streams
+Analyzed song popularity trends over time
+Compared artist performance across multiple KPIs
+Highlighted most popular tracks and listener preference patterns
+Built an interactive and user-friendly dashboard for business insights
 
 
 💡 Key Features
